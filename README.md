@@ -12,6 +12,12 @@ From this folder, run:
 .\Install-StandUpWaterAgent.ps1
 ```
 
+Or double-click:
+
+```text
+Install-StandUpWaterAgent.cmd
+```
+
 To install and trigger the first reminder immediately:
 
 ```powershell
@@ -42,4 +48,10 @@ For example, to remind every 20 minutes:
 
 ```powershell
 .\Uninstall-StandUpWaterAgent.ps1
+```
+
+Or double-click:
+
+```text
+Uninstall-StandUpWaterAgent.cmd
 ```
